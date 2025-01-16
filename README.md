@@ -57,3 +57,8 @@ El repositorio contiene los siguientes directorios y archivos principales:
 - **LICENSE.md**: Las licencias que intervienen en el proyecto.
 - **README.md**: Este archivo, que proporciona detalles sobre el proyecto y su implementación.
 
+
+  > "Cómo podrías renacer sin antes haber quedado reducido a ceniza."  
+  > — Friedrich Nietzsche
+
+  <img src="https://i.pinimg.com/736x/a3/20/67/a32067869e45019406b5af18ff9aacb1.jpg" alt="..." width="400">
