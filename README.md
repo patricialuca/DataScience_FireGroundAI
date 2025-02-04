@@ -1,6 +1,9 @@
 # FireGroundAI
 
-**FireGroundAI** es un proyecto de inteligencia artificial que forma parte del **Trabajo de Fin de Máster en Ciencia de Datos de la UOC**.
+Este trabajo de fin de máster ha sido desarrollado como parte del **Trabajo de Fin de Máster en Ciencia de Datos**, obteniendo una calificación de **9.8**.  
+Además, ha sido publicado en el repositorio de la **Universitat Oberta de Catalunya (UOC)** y puede consultarse en el siguiente enlace:
+
+📄 [Acceder al TFM](https://openaccess.uoc.edu/handle/10609/152013)
 
 ## Objetivo
 
@@ -62,3 +65,6 @@ El repositorio contiene los siguientes directorios y archivos principales:
   > — Friedrich Nietzsche
 
   <img src="https://i.pinimg.com/736x/a3/20/67/a32067869e45019406b5af18ff9aacb1.jpg" alt="..." width="400">
+
+
+Este proyecto fue realizado por [Patricia Luengo Carretero](https://www.linkedin.com/in/patricialuca/). Puedes ver más sobre mi trabajo en [mi sitio web personal](https://www.patricialuca.es).
