@@ -1,7 +1,8 @@
 # FireGroundAI
 
-Este trabajo de fin de máster ha sido desarrollado como parte del **Trabajo de Fin de Máster en Ciencia de Datos**, obteniendo una calificación de **9.8**.  
-Además, ha sido publicado en el repositorio de la **Universitat Oberta de Catalunya (UOC)** y puede consultarse en el siguiente enlace:
+Este trabajo de ha sido desarrollado como parte del **Trabajo de Fin de Máster en Ciencia de Datos**, obteniendo una calificación de **9.8**. 
+
+Ha sido publicado en el repositorio oficial de la **Universitat Oberta de Catalunya (UOC)** y puede consultarse en el siguiente enlace:
 
 📄 [Acceder al TFM](https://openaccess.uoc.edu/handle/10609/152013)
 
